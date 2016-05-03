@@ -12,29 +12,29 @@
 'nano-sched' plugin for parse, optimize and pack svg to json
 
 
-[bithound-image]: https://www.bithound.io/github/Holixus/nano-sched-fs/badges/score.svg
-[bithound-url]: https://www.bithound.io/github/Holixus/nano-sched-fs
+[bithound-image]: https://www.bithound.io/github/Holixus/nano-sched-svg/badges/score.svg
+[bithound-url]: https://www.bithound.io/github/Holixus/nano-sched-svg
 
-[gitter-image]: https://badges.gitter.im/Holixus/nano-sched-fs.svg
-[gitter-url]: https://gitter.im/Holixus/nano-sched-fs
+[gitter-image]: https://badges.gitter.im/Holixus/nano-sched-svg.svg
+[gitter-url]: https://gitter.im/Holixus/nano-sched-svg
 
-[npm-image]: https://badge.fury.io/js/nano-sched-fs.svg
-[npm-url]: https://badge.fury.io/js/nano-sched-fs
+[npm-image]: https://badge.fury.io/js/nano-sched-svg.svg
+[npm-url]: https://badge.fury.io/js/nano-sched-svg
 
-[github-tag]: http://img.shields.io/github/tag/Holixus/nano-sched-fs.svg
-[github-url]: https://github.com/Holixus/nano-sched-fs/tags
+[github-tag]: http://img.shields.io/github/tag/Holixus/nano-sched-svg.svg
+[github-url]: https://github.com/Holixus/nano-sched-svg/tags
 
-[travis-image]: https://travis-ci.org/Holixus/nano-sched-fs.svg?branch=master
-[travis-url]: https://travis-ci.org/Holixus/nano-sched-fs
+[travis-image]: https://travis-ci.org/Holixus/nano-sched-svg.svg?branch=master
+[travis-url]: https://travis-ci.org/Holixus/nano-sched-svg
 
-[coveralls-image]: https://coveralls.io/repos/github/Holixus/nano-sched-fs/badge.svg?branch=master
-[coveralls-url]: https://coveralls.io/github/Holixus/nano-sched-fs?branch=master
+[coveralls-image]: https://coveralls.io/repos/github/Holixus/nano-sched-svg/badge.svg?branch=master
+[coveralls-url]: https://coveralls.io/github/Holixus/nano-sched-svg?branch=master
 
-[david-image]: https://david-dm.org/Holixus/nano-sched-fs.svg
-[david-url]: https://david-dm.org/Holixus/nano-sched-fs
+[david-image]: https://david-dm.org/Holixus/nano-sched-svg.svg
+[david-url]: https://david-dm.org/Holixus/nano-sched-svg
 
 [license-image]: https://img.shields.io/badge/license-MIT-blue.svg
 [license-url]: LICENSE
 
-[downloads-image]: http://img.shields.io/npm/dt/nano-sched-fs.svg
-[downloads-url]: https://npmjs.org/package/nano-sched-fs
+[downloads-image]: http://img.shields.io/npm/dt/nano-sched-svg.svg
+[downloads-url]: https://npmjs.org/package/nano-sched-svg
