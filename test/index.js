@@ -90,7 +90,7 @@ suite('svgjs.parse', function () {
 		var log = new Logger('svg.parse', job),
 		    data = {
 					opts: opts,
-					encoding: 'text',
+					encoding: 'utf8',
 					content: svg
 				};
 

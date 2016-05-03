@@ -5,8 +5,8 @@ var jsvg = require('nano-svg2js');
 module.exports = {
 
 'parse': function sync(log, data) {
-	if (data.encoding !== 'text')
-		throw TypeError('data.encoding should be equal "text"');
+	if (data.encoding !== 'utf8')
+		throw TypeError('data.encoding should be equal "utf8"');
 	return jsvg.parseSVG(data.content).then(function (jsvg) {
 		data.content = jsvg;
 		data.encoding = 'json';

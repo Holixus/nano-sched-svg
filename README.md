@@ -11,6 +11,39 @@
 # nano-sched-svg
 'nano-sched' plugin for parse, optimize and pack svg to json
 
+## svg.parse(log, data)
+
+* data Object
+   * encoding `String` = 'utf8'
+   * content `String`
+* result data Object
+   * encoding `String` = 'json'
+   * content `Object`
+
+Converts svg text into js object
+
+
+## svg.optimize-ids(log, data)
+
+* data Object
+   * encoding `String` = 'json'
+   * content `Object`
+
+
+## svg.optimize(log, data)
+
+* data Object
+   * encoding `String` = 'json'
+   * content `Object`
+
+
+## svg.pack(log, data)
+
+* data Object
+   * encoding `String` = 'json'
+   * content `Object`
+
+
 
 [bithound-image]: https://www.bithound.io/github/Holixus/nano-sched-svg/badges/score.svg
 [bithound-url]: https://www.bithound.io/github/Holixus/nano-sched-svg
