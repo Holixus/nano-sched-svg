@@ -1,6 +1,6 @@
 {
   "name": "nano-sched-svg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "'nano-sched' plugin for parse, optimize and pack svg to json",
   "main": "index.js",
   "scripts": {
@@ -14,6 +14,7 @@
   "devDependencies": {
     "core-assert": "0",
     "clone": "1",
+    "nano-promise": "1",
     "nano-timer": "1",
     "nano-unifs": "1",
     "nano-json": "1",
